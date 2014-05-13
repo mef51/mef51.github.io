@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blag]]></title>
   <link href="http://mef51.github.io/atom.xml" rel="self"/>
   <link href="http://mef51.github.io/"/>
-  <updated>2014-05-13T15:27:49-04:00</updated>
+  <updated>2014-05-13T16:07:15-04:00</updated>
   <id>http://mef51.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mohammed Chamma]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bloog Post]]></title>
+    <link href="http://mef51.github.io/blog/2014/05/13/bloog-post/"/>
+    <updated>2014-05-13T15:46:37-04:00</updated>
+    <id>http://mef51.github.io/blog/2014/05/13/bloog-post</id>
+    <content type="html"><![CDATA[<p>Excuse me, this isn&rsquo;t a blog post.</p>
+]]></content>
+  </entry>
   
 </feed>

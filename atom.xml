@@ -4,7 +4,7 @@
   <title><![CDATA[My Blag]]></title>
   <link href="http://mef51.github.io/atom.xml" rel="self"/>
   <link href="http://mef51.github.io/"/>
-  <updated>2014-05-13T16:07:15-04:00</updated>
+  <updated>2014-05-27T02:02:15-04:00</updated>
   <id>http://mef51.github.io/</id>
   <author>
     <name><![CDATA[Mohammed Chamma]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wake-up Habit]]></title>
+    <link href="http://mef51.github.io/blog/2014/05/27/wake-up-habits/"/>
+    <updated>2014-05-27T01:49:49-04:00</updated>
+    <id>http://mef51.github.io/blog/2014/05/27/wake-up-habits</id>
+    <content type="html"><![CDATA[<p><strong>Current Wake-up Habit:</strong></p>
+
+<ol>
+<li>Hear Alarm.</li>
+<li>Rollover.</li>
+<li>Turn off Alarm.</li>
+<li>Go back to sleep.</li>
+<li>Be two (or more) hours late.</li>
+</ol>
+
+
+<p><strong>New Wake-up Habit:</strong></p>
+
+<ol>
+<li>Hear Alarm.</li>
+<li>Remove covers.</li>
+<li>Turn and place feet on floor.</li>
+<li>Count to 10.</li>
+<li>Turn off Alarm.</li>
+<li>Stand.</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bloog Post]]></title>
